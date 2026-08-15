@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "free-1.skynodes.in",
-    "port": 25582,
+    "ip": "wintersurvivor.playserver.pro",
+    "port": 42860,
     "version": "1.21.1"
   },
   "position": {
